@@ -1,0 +1,113 @@
+.form2 input[type=text] {
+	width: 90%;
+	padding: 15px;
+	margin: 5px 0 22px 0;
+	display: inline-block;
+	border: none;
+	background: white;
+}
+
+.form2 input[type=submit] {
+	width: 90%;
+	padding: 15px;
+	margin: 5px 0 22px 0;
+	display: inline-block;
+	border: none;
+	background: #87CEFA;
+	position:relative;
+	left:2%;
+}
+.form3 input[type=submit] {
+	width: 37%;
+	padding: 8px;
+	margin: -5px 0 22px 0;
+	display: inline-block;
+	border: none;
+	background: #87CEFA;
+	position:absolute;
+	left:50%;
+	top:124%;
+}
+.form3 input[type=text] {
+	width:83%;
+	padding: 4px;
+	margin: -1px 0 22px 0;
+	display: inline-block;
+	border: none;
+	background: white;
+	position:absolute;
+	top:18%;
+}
+.form3 input[type=password] {
+	width:83%;
+	padding: 4px;
+	margin: -1px 0 22px 0;
+	display: inline-block;
+	border: none;
+	background: white;
+	position:absolute;
+	top:69%;
+	left:0%;
+}
+.profile-pic {
+	width:187px;
+	height:187px;
+}
+.user-info {
+	width:70%;
+	height:187px;
+	position:relative;
+	left:28%;
+}
+.review {
+	width:80%;
+	height:385px;
+	position:relative;
+	left:5%;
+	
+}
+.review select {
+	margin-top:10px;
+	margin-bottom:10px;
+	color:black;
+	background-color:#f2f2f2;
+	padding:3px;
+	font-size:14px;
+	width:350px;
+}
+
+.review textarea {
+	height:107px;
+	width:358px;
+}
+
+.user-login {
+	width:23%;
+	position:absolute;
+	left:76%;
+	top:3%;
+}
+.register {
+	border-radius:5px;
+	background-color:#f2f2f2;
+	padding:20px;
+	width:70%;
+	position:relative;
+	left:12%;
+}
+.review-desc {
+	text-align:center;
+	color:white;
+	position:relative;
+	left:30%;
+	font-size:25px;
+	left:0%;
+	background-color:#00BFFF;
+	width:90%;
+	left:5%;
+	border-radius:5px;
+}
+.dateinfo {
+	position:relative;
+	
+}
